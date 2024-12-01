@@ -1,0 +1,6 @@
+# AoC Input
+input*.txt
+
+# Editor
+.vscode
+.idea
